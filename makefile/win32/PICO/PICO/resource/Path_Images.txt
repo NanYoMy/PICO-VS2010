@@ -1,0 +1,4 @@
+.\\resource\\testset\\image_0001.png
+.\\resource\\testset\\image_0002.png
+.\\resource\\testset\\image_0003.png
+.\\resource\\testset\\image_0003.png
